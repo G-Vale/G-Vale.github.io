@@ -1,4 +1,6 @@
-/* atulizar ----> trocar o EM BREVE por linkd e git,  add q esta cursando full stack, add links no contato e fazer outra aba para QUEM SOU EU*/
+/*  atulizar ----> trocar o EM BREVE por linkd e git,  
+    add q esta cursando full stack,
+    add links no contato e fazer outra aba para QUEM SOU EU*/
 * {
     margin: 0;
     padding: 0;
@@ -17,6 +19,10 @@ body {
 a {
     color: inherit;
     text-decoration: none;
+}
+
+h2 {
+    color:green;
 }
 
 nav {
@@ -93,3 +99,5 @@ p:hover {
     border-bottom: 2px dotted #cfd8dc;
     padding-bottom: 5px
 }
+
+
